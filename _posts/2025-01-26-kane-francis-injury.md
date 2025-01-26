@@ -26,6 +26,6 @@ Without quick treatment and surgery the injury Kane sustained could be quite lit
 
 ## Fundraiser
 
-Evans Nana another high ranking Strongman and close friend of Kane has set up a fundraiser on gofundme which can be found here: https://www.gofundme.com/f/england-strongest-man-get-his-adductor-longus-fixed
+Evans Nana another high ranking Strongman and close friend of Kane has set up a fundraiser on gofundme which can be found on his <a href="https://www.gofundme.com/f/england-strongest-man-get-his-adductor-longus-fixed">gofundme page</a>.
 
 We wish Kane the best of British luck with his coming surgery and ongoing recovery.
