@@ -3,7 +3,7 @@ title: Kane Francis tears tendon in groin during Strongman training
 date: 2025-01-26 20:40 +0300
 categories: [Strength]
 tags: [strength, strongman, injury, news]
-author: Dr. Johnston Stewart
+author: johnston
 ---
 
 ## Kane Francis Groin Tear
