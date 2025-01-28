@@ -4,6 +4,9 @@ date: 2025-01-26 20:40 +0300
 categories: [Strength]
 tags: [strength, strongman, injury, news]
 author: johnston
+image:
+  path: /assets/img/2025-01/kane.jpg
+  alt: Strongman Kane Francis
 ---
 
 <!---
@@ -11,14 +14,14 @@ title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORY, SUB_CATEGORY] - 0-2 elements only
 tags: [TAG]     # TAG names should always be lowercase - 0 - infinite
+image:                                  main post image shows on home page also
+  path: /assets/img/2025-01/kane.jpg
+  alt: Strongman Kane Francis
 description: Short summary of the post. If not specified, takes the first few words from post - if specified will also appear under the title on the post
 -->
 
 
-<!--- ## Kane Francis Groin Tear -->
-
-![Strongman Kane Francis](/assets/img/2025-01/kane.jpg){: w="700" h="400" }
-_Kane Francis_
+## Kane Francis Groin Tear
 
 Kane Francis, England's Strongest man, has suffered a grade 3 adductor tendon tear in his groin in a nightmare injury during training for the log press.
 
